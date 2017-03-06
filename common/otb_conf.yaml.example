@@ -1,0 +1,2 @@
+# Configure the OTB path (folder with bin, lib, share)
+OTB_PATH: ~/Downloads/OTB-5.10.0-win64

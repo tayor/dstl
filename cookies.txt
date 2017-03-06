@@ -1,0 +1,18 @@
+# HTTP Cookie File for domains related to kaggle.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection
+#
+www.kaggle.com	FALSE	/	TRUE	1518283522	ai_user	UUwZ6|2017-02-10T17:25:22.934Z
+www.kaggle.com	FALSE	/	TRUE	0	__RequestVerificationToken	ja6rlK0WQ3IhQo60mnSkQo9IbR4ma-n1kGeVCCxNUopxFunkb4XHSXq0g3MbTcvYf1F_PxFEeoicXgPRAH_aIaK3u_w1
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	5ce93f2a8d926f6aded2728527ef6499076259146015b56595df77aca092079e
+.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	5ce93f2a8d926f6aded2728527ef6499076259146015b56595df77aca092079e
+.kaggle.com	TRUE	/	FALSE	1488794735	_gat	1
+.kaggle.com	TRUE	/	FALSE	1488794738	__utmt	1
+.kaggle.com	TRUE	/	FALSE	1551866141	__utma	158690720.1519544763.1486747523.1488724073.1488794138.13
+.kaggle.com	TRUE	/	FALSE	1488795941	__utmb	158690720.2.9.1488794141685
+.kaggle.com	TRUE	/	FALSE	0	__utmc	158690720
+.kaggle.com	TRUE	/	FALSE	1504562141	__utmz	158690720.1488693495.11.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.kaggle.com	TRUE	/	TRUE	1551866144	.ASPXAUTH	6773A4A6898CDFE8AC0BE9CC7CFEE707831B4D7E2ACB423439ED3DEBF4FBEB760597BA37D8CC614E44D6AE36F8A726175F72506E29B780DDABB23E4DC6D28A6DCB30D2B030245C4CF107878649B5963D06826900
+www.kaggle.com	FALSE	/	TRUE	0	TempData	.dg7Xa/dr6WkzXtquD3gBszecBRoxay8/H49FkzvV5T+cOp07QDbdAvWPbndXAsGh4M+qpTEAb2LZ/RZJLv5TH+P9dH8d7mipBxDynIgkvW1E1ARpo1mARcprOEFGbAxLHEgobd60vz1USC6ddGG2dMackCvfBWEZ4B+By2Vx2ag4eOmJPuXRgdrp+opIOaqsXC8HxMjObQS+uj0/SSRmELu/OJ8asqYJCKImeBxv9KSBTW2y
+.kaggle.com	TRUE	/	FALSE	1551866157	_ga	GA1.2.1519544763.1486747523
+www.kaggle.com	FALSE	/	TRUE	1488795957	ai_session	URJEz|1488794136752|1488794157779.235
